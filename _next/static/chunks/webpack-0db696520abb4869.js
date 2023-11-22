@@ -103,7 +103,7 @@
     }),
     (s.u = function (e) {}),
     (s.miniCssF = function (e) {
-      return "static/css/3bfb2ab5abe755af.css";
+      return "static/css/912c8d60fc1eb421.css";
     }),
     (s.o = function (e, t) {
       return Object.prototype.hasOwnProperty.call(e, t);
@@ -183,7 +183,7 @@
     (s.tu = function (e) {
       return s.tt().createScriptURL(e);
     }),
-    (s.p = "/next/"),
+    (s.p = "https://aamirhafiez.github.io/next-sdk-out/next/"),
     (i = { 272: 0 }),
     (s.f.j = function (e, t) {
       var r = s.o(i, e) ? i[e] : void 0;
